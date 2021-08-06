@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/PinkyWolf/goit-react-hw-02-feedback/static/css/main.de8e6187.chunk.css",
-    "main.js": "/PinkyWolf/goit-react-hw-02-feedback/static/js/main.21e87be1.chunk.js",
-    "main.js.map": "/PinkyWolf/goit-react-hw-02-feedback/static/js/main.21e87be1.chunk.js.map",
-    "runtime-main.js": "/PinkyWolf/goit-react-hw-02-feedback/static/js/runtime-main.4bf70697.js",
-    "runtime-main.js.map": "/PinkyWolf/goit-react-hw-02-feedback/static/js/runtime-main.4bf70697.js.map",
-    "static/css/2.de71bbd8.chunk.css": "/PinkyWolf/goit-react-hw-02-feedback/static/css/2.de71bbd8.chunk.css",
-    "static/js/2.87df65ad.chunk.js": "/PinkyWolf/goit-react-hw-02-feedback/static/js/2.87df65ad.chunk.js",
-    "static/js/2.87df65ad.chunk.js.map": "/PinkyWolf/goit-react-hw-02-feedback/static/js/2.87df65ad.chunk.js.map",
-    "index.html": "/PinkyWolf/goit-react-hw-02-feedback/index.html",
-    "static/css/2.de71bbd8.chunk.css.map": "/PinkyWolf/goit-react-hw-02-feedback/static/css/2.de71bbd8.chunk.css.map",
-    "static/css/main.de8e6187.chunk.css.map": "/PinkyWolf/goit-react-hw-02-feedback/static/css/main.de8e6187.chunk.css.map",
-    "static/js/2.87df65ad.chunk.js.LICENSE.txt": "/PinkyWolf/goit-react-hw-02-feedback/static/js/2.87df65ad.chunk.js.LICENSE.txt"
+    "main.css": "/PinkyWolf/goit-react-hw-02-feedback/tree/gh-pages/static/css/main.de8e6187.chunk.css",
+    "main.js": "/PinkyWolf/goit-react-hw-02-feedback/tree/gh-pages/static/js/main.21e87be1.chunk.js",
+    "main.js.map": "/PinkyWolf/goit-react-hw-02-feedback/tree/gh-pages/static/js/main.21e87be1.chunk.js.map",
+    "runtime-main.js": "/PinkyWolf/goit-react-hw-02-feedback/tree/gh-pages/static/js/runtime-main.58ba21fe.js",
+    "runtime-main.js.map": "/PinkyWolf/goit-react-hw-02-feedback/tree/gh-pages/static/js/runtime-main.58ba21fe.js.map",
+    "static/css/2.de71bbd8.chunk.css": "/PinkyWolf/goit-react-hw-02-feedback/tree/gh-pages/static/css/2.de71bbd8.chunk.css",
+    "static/js/2.87df65ad.chunk.js": "/PinkyWolf/goit-react-hw-02-feedback/tree/gh-pages/static/js/2.87df65ad.chunk.js",
+    "static/js/2.87df65ad.chunk.js.map": "/PinkyWolf/goit-react-hw-02-feedback/tree/gh-pages/static/js/2.87df65ad.chunk.js.map",
+    "index.html": "/PinkyWolf/goit-react-hw-02-feedback/tree/gh-pages/index.html",
+    "static/css/2.de71bbd8.chunk.css.map": "/PinkyWolf/goit-react-hw-02-feedback/tree/gh-pages/static/css/2.de71bbd8.chunk.css.map",
+    "static/css/main.de8e6187.chunk.css.map": "/PinkyWolf/goit-react-hw-02-feedback/tree/gh-pages/static/css/main.de8e6187.chunk.css.map",
+    "static/js/2.87df65ad.chunk.js.LICENSE.txt": "/PinkyWolf/goit-react-hw-02-feedback/tree/gh-pages/static/js/2.87df65ad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4bf70697.js",
+    "static/js/runtime-main.58ba21fe.js",
     "static/css/2.de71bbd8.chunk.css",
     "static/js/2.87df65ad.chunk.js",
     "static/css/main.de8e6187.chunk.css",
